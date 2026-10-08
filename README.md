@@ -1,16 +1,24 @@
-<p align="center">
-  ⋆  ˚ ｡ ⋆  ୨୧ ˚ ˚ ୨୧  ⋆ ｡ ˚  ⋆<br>
-  <i>Aprendiz de todo, experta en nada.</i>
-</p>
+<div align="center">
 
-![banercito](./starz.gif)
+⋆  ˚ ｡ ⋆  ୨୧ ˚ ˚ ୨୧  ⋆ ｡ ˚  ⋆<br>
+<i>Aprendiz de todo, experta en nada.</i>
 
-_Estudiante de Ingeniería civil en informática | UCT_
+<br><br>
+
+<img src="./starz.gif" alt="banercito" width="100%">
+
+<br>
+
+<i>Estudiante de Ingeniería Civil en Informática | UCT</i>
+
+<br><br>
 
 | Sweet tooth! | Headaches! |
-| ------------ | ------------ |
-| Frontend     | Database |
+| :---: | :---: |
+| Frontend | Database |
 | Digital art | slow internet |
 | Tea 24/7 | back pain |
 | cozy games | larpers |
 | Indie animation | my 67th bug in my code |
+
+</div>
