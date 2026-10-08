@@ -3,9 +3,7 @@
 ⋆  ˚ ｡ ⋆  ୨୧ ˚ ˚ ୨୧  ⋆ ｡ ˚  ⋆<br>
 <i>Aprendiz de todo, experta en nada.</i>
 
-<br><br>
-
-<img src="./starz.gif" alt="banercito" width="100%">
+<img src="./starz.gif" alt="banercito" width="50%">
 
 <br>
 
